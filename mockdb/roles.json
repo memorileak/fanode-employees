@@ -1,0 +1,4 @@
+[
+  {"id": "0", "name": "admin", "permissions": ["Employees:FullAccess"]},
+  {"id": "1", "name": "viewer", "permissions": ["Employees:GetOne", "Employees:List"]}
+]
